@@ -1,0 +1,8 @@
+{
+  "name": "flattenbytes",
+  "version": "1.0.0",
+  "description": "a simple utility to flatten a nested array of bytes",
+  "main": "index.js",
+  "author": "Richard Anaya",
+  "license": "MIT"
+}
